@@ -16,6 +16,7 @@ public class First {
 		System.out.println("hello  world!");
 		System.out.println("hi!");
 		System.out.println("say hi!");
+		System.out.println("say");
 		/*在first\src\first中输入 javac -encoding utf-8 First.java
 		 * cd ..回到src文件下
 		 **执行 Java 包名.类名(java first.First)*/
